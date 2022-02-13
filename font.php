@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(AlloyInk-nRLyO.woff);
+        src: url(Lpj_font1-Regular.woff);
       }
       @font-face{ 
         font-family: myFont2;
