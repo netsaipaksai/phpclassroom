@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(DM Weekend Regular.woff);
+        src: url(AlloyInk-nRLyO.woff);
       }
       @font-face{ 
         font-family: myFont2;
