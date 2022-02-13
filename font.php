@@ -4,7 +4,7 @@
     <style>
       @font-face{
         font-family: myFont;
-        src: url(shining.woff);
+        src: url(DM Weekend Regular.woff);
       }
       @font-face{ 
         font-family: myFont2;
